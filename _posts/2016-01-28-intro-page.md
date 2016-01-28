@@ -1,27 +1,27 @@
 ---
 inFeed: false
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Industrial Violin
-datePublished: '2016-01-28T05:19:16.367Z'
-dateModified: '2016-01-28T05:16:51.872Z'
+datePublished: '2016-01-28T05:23:03.913Z'
+dateModified: '2016-01-28T05:22:40.798Z'
 title: Intro page
 author: []
+sourcePath: _posts/2016-01-28-intro-page.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-28-intro-page.md
-published: true
 url: intro-page/index.html
-_type: WebPage
+_type: Blurb
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/617728d7-6c58-4e5f-ad4d-b95b42b817a9.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8629b98705e628baf324f5225505b93dc8cd2d0.png)
 
 Artwork can be used as stand alone or Album Cover
