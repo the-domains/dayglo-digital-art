@@ -6,21 +6,21 @@ inLanguage: null
 starred: false
 keywords: []
 description: Fire Brand
-datePublished: '2016-02-04T22:52:32.155Z'
-dateModified: '2016-02-04T22:52:13.554Z'
+datePublished: '2016-02-04T23:04:32.863Z'
+dateModified: '2016-02-04T23:04:18.103Z'
 title: Page Three
 author: []
+sourcePath: _posts/2016-02-04-page-three.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-04-page-three.md
-published: true
 url: page-three/index.html
 _type: WebPage
 
 ---
 Fire Brand
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fa5d76890cfe8a0ef26fbbd8f5ffd88ff1e722aa.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ebd5cf3d9fbe12bba29e6c71fd85333751be0fc0.png)
