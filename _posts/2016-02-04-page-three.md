@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Fire Brand
-datePublished: '2016-02-07T08:53:40.887Z'
-dateModified: '2016-02-07T08:53:36.991Z'
-title: Page 2
+datePublished: '2016-02-07T08:56:45.477Z'
+dateModified: '2016-02-07T08:56:36.441Z'
+title: Page 3
 author: []
 sourcePath: _posts/2016-02-04-page-three.md
 published: true
@@ -23,4 +23,4 @@ _type: WebPage
 
 ---
 Fire Brand
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/67328b67f1a81636ea0a1e2c050c6ee85275bd74.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a388a4c40b902d41a943e1f31703e79ef568f95.png)
