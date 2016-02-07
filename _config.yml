@@ -23,6 +23,6 @@ color:
     - '#feda1c'
   brandStrength: 0.6875
   lightness: 0.16221422632224858
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
