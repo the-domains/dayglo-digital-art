@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Hummingbird Moth
-datePublished: '2016-03-22T02:26:45.562Z'
-dateModified: '2016-03-22T02:26:45.178Z'
+datePublished: '2016-03-22T02:49:21.835Z'
+dateModified: '2016-03-22T02:46:39.281Z'
 title: Page 2
 author: []
 sourcePath: _posts/2016-02-04-second-page.md
@@ -22,6 +22,9 @@ url: second-page/index.html
 _type: WebPage
 
 ---
+Golden Mandala
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4ba11fe-5950-40f3-b817-4ad0856ee070.jpg)
+
 Hummingbird Moth
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68ba7039-4a63-4cdb-89bd-58d50b66802b.jpg)
 
