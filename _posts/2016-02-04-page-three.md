@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Fire Brand
-datePublished: '2016-04-13T20:43:51.286Z'
-dateModified: '2016-04-13T20:40:37.419Z'
+datePublished: '2016-04-13T20:48:34.105Z'
+dateModified: '2016-04-13T20:48:13.986Z'
 title: Page 3
 author: []
 sourcePath: _posts/2016-02-04-page-three.md
@@ -22,6 +22,9 @@ url: page-three/index.html
 _type: WebPage
 
 ---
+The Serpent
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b60a729-02ef-4685-b796-49b846cff284.jpg)
+
 Dragonfly Glo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2be5bd3-a008-4b91-befb-e5ba62ebd19e.jpg)
 
