@@ -3,13 +3,14 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: Industrial Violin
-datePublished: '2016-03-22T00:57:42.626Z'
-dateModified: '2016-03-22T00:46:07.482Z'
-title: Page 1
-author: []
+description: ''
+datePublished: '2016-04-27T20:39:00.272Z'
+dateModified: '2016-04-27T20:38:25.422Z'
+title: Industrial Violin
+author:
+  - name: David Yaeger
+    url: ''
 sourcePath: _posts/2016-01-28-intro-page.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: intro-page/index.html
 _type: Blurb
 
