@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Hummingbird Moth
-datePublished: '2016-04-27T20:34:27.249Z'
-dateModified: '2016-04-27T20:34:14.541Z'
-title: Page 3
+datePublished: '2016-04-27T20:36:41.972Z'
+dateModified: '2016-04-27T20:36:39.819Z'
+title: Page 2
 author:
   - name: David Yaeger
     url: ''
