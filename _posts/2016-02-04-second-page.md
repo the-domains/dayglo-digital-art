@@ -3,13 +3,14 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: Hummingbird Moth
-datePublished: '2016-03-22T03:00:29.526Z'
-dateModified: '2016-03-22T02:59:47.784Z'
-title: Page 2
-author: []
+datePublished: '2016-04-27T20:24:01.561Z'
+dateModified: '2016-04-27T20:23:35.724Z'
+title: Humingbird Moth
+author:
+  - name: David Yaeger
+    url: ''
 sourcePath: _posts/2016-02-04-second-page.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: second-page/index.html
 _type: WebPage
 
@@ -32,4 +34,4 @@ Hummingbird Moth
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/68ba7039-4a63-4cdb-89bd-58d50b66802b.jpg)
 
 As the Lion Sleeps
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/bcc241b3-8305-40f5-a946-9dd80492a6fc.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7939ae3-7e88-401e-ae78-d1f68104cc0a.png)
