@@ -3,13 +3,14 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: Fire Brand
-datePublished: '2016-04-13T20:48:34.105Z'
-dateModified: '2016-04-13T20:48:13.986Z'
-title: Page 3
-author: []
+datePublished: '2016-04-27T20:21:41.329Z'
+dateModified: '2016-04-27T20:21:40.851Z'
+title: Page  3
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-02-04-page-three.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: page-three/index.html
 _type: WebPage
 
