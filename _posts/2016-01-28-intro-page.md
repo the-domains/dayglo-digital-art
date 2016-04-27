@@ -4,9 +4,9 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: Industrial Violin
-datePublished: '2016-04-27T20:43:58.977Z'
-dateModified: '2016-04-27T20:42:06.650Z'
+description: 'Artwork can be used as stand alone or Album Cover '
+datePublished: '2016-04-27T20:53:46.120Z'
+dateModified: '2016-04-27T20:53:21.613Z'
 title: Page 1
 author:
   - name: David Yaeger
@@ -31,9 +31,7 @@ Lavender Flower
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67747788-2f42-4354-98c0-b8d05df7e1b5.png)
 
 Cheshire Nirvana
-![Alice caught the cat meditating](https://the-grid-user-content.s3-us-west-2.amazonaws.com/120c2b44-de29-43dd-a321-4348fd07257a.jpg)
-
-Industrial Violin
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/32b66007-443b-4be6-9b22-a3d4254d6c78.jpg)
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96cb3c3aec7889169be1baabffff285ed3952798.png)
 
 Artwork can be used as stand alone or Album Cover
