@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'Artwork can be used as stand alone or Album Cover '
-datePublished: '2016-04-27T20:53:46.120Z'
-dateModified: '2016-04-27T20:53:21.613Z'
+datePublished: '2016-04-27T20:57:00.470Z'
+dateModified: '2016-04-27T20:56:56.250Z'
 title: Page 1
 author:
   - name: David Yaeger
