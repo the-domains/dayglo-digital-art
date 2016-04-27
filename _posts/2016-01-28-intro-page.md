@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-04-27T20:39:00.272Z'
-dateModified: '2016-04-27T20:38:25.422Z'
+datePublished: '2016-04-27T20:40:11.751Z'
+dateModified: '2016-04-27T20:39:20.861Z'
 title: Industrial Violin
 author:
   - name: David Yaeger
@@ -19,7 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: true
+starred: false
 url: intro-page/index.html
 _type: Blurb
 
