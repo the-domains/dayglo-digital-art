@@ -5,11 +5,11 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Fire Brand
-datePublished: '2016-04-27T20:21:41.329Z'
-dateModified: '2016-04-27T20:21:40.851Z'
+datePublished: '2016-04-27T21:01:41.659Z'
+dateModified: '2016-04-27T21:01:41.145Z'
 title: Page  3
 author:
-  - name: ''
+  - name: David Yaeger
     url: ''
 sourcePath: _posts/2016-02-04-page-three.md
 published: true
@@ -31,4 +31,4 @@ Dragonfly Glo
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2be5bd3-a008-4b91-befb-e5ba62ebd19e.jpg)
 
 Fire Brand
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a388a4c40b902d41a943e1f31703e79ef568f95.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/96c970ce468d08dbac2e77b5fe0ab41c09a40913.png)
